@@ -1,0 +1,10 @@
+import random
+fortune=int(input("select cookie:"));
+if fortune==1:
+    print("Today will be a lucky day")
+elif fortune==2:
+    print("you will meet someone new and interesting")
+elif fortune==3:
+     print("watchout for obstacles in your path")
+else:
+     print("Try again next time")
